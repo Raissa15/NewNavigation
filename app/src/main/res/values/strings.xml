@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExNav2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="NewNavgation">Fragment One</string>
+    <string name="fragment_two">Fragment Two</string>
+    <string name="fragment_three">Fragment Three</string>
+    <string name="fragment_four">Fragment Four</string>
+    <string name="fragment_five">Fragment Five</string>
+    <string name="fragment_six">Fragment Six</string>
+    <string name="ret">return</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
